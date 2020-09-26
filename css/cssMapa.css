@@ -1,0 +1,43 @@
+
+/* NEGRITO NAS VAGAS */
+p {
+  font-weight: bolder; 
+}
+
+
+/* FORMATAÇÃO DOS CARDS */
+.card-text{
+  font-size: 25px;
+}
+
+/* CONTAINER 01 */
+.container-fluid{
+  height: 700px;
+  background-color:rgb(12, 12, 12);
+}
+
+#logo{
+  height: 150px;
+}
+
+#linha05{
+  background-color: rgb(243, 242, 242);
+  height:150px;
+  border-radius: 25px;
+}
+
+#engrenagem{
+  width: 80px;
+  height: 100px;
+}
+
+
+/*Posição do formulário*/
+.form-container{
+  position: absolute;
+  top: 15vh; /*Distância top do box do login*/
+  background: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px 0px #000;
+}
